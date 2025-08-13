@@ -13,7 +13,7 @@ Criar uma API REST simples para cadastro de produtos e um front-end em React que
 - **SRP (Single Responsibility Principle):** separação clara entre camadas (Entidades, DTOs, Repositório, Serviço e API)
 - **DIP (Dependency Inversion Principle):** API depende de interfaces; implementações reais são injetadas via DI
 
-## 📁 Estrutura sugerida do projeto
+## 📁 Estrutura  do projeto
 Produtos.Api/
 ├─ Domain/
 │ └─ Product.cs
